@@ -1,0 +1,7 @@
+{
+  "name": "USBCommuncicationKranthi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
